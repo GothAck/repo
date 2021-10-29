@@ -1,0 +1,19 @@
+Package: go-mmproxy
+Priority: optional
+Section: misc
+Installed-Size: 7735
+Maintainer: <gothack@localhost>
+Architecture: amd64
+Version: 2.1
+Filename: pool/main/g/go-mmproxy/go-mmproxy_2.1_amd64.deb
+Size: 3482676
+MD5sum: ebf1bb5727be09194f063160ea715610
+SHA1: 7e46065cee58afbd54060e94b32e189d8680d184
+SHA256: bc620d3d6675cdbeccb7cecb437b03b822f51ce4031c01e22b4e6d5c2e8bd30f
+SHA512: 7a9f99eae0cf3cb70ef55a83f35686b3f12dda1934dd965cf8d3de8f72362dc004e5640b5edd55faaf0f7d48e2b2c81dbdc8c062ea9c18a97c1da4388f0f6d03
+Description: <short description; defaults to some wise words>
+ long description and info
+ .
+ second paragraph
+Multi-Arch: foreign
+
